@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61b4701a7245912d3cff34ea08b84946",
+    "revision": "0c1b575c9a546ea3ea7e6dcda9c26df6",
     "url": "/index.html"
   },
   {
-    "revision": "f60f7337977c00e99023",
+    "revision": "5061e2c0f9ec77107896",
     "url": "/static/css/main.9c27953e.chunk.css"
   },
   {
-    "revision": "67e2f4e7c1dbcd8f6051",
-    "url": "/static/js/2.97cfbc5c.chunk.js"
+    "revision": "9d3a822bbe01689d2e45",
+    "url": "/static/js/2.1845d394.chunk.js"
   },
   {
-    "revision": "f60f7337977c00e99023",
-    "url": "/static/js/main.cc4557bf.chunk.js"
+    "revision": "5061e2c0f9ec77107896",
+    "url": "/static/js/main.80e5c32b.chunk.js"
   },
   {
     "revision": "b449bc4e6a1ee18b7675",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee92c18b1cfbd1faa704c51047f113d",
     "url": "/static/media/codeInLogo.fee92c18.png"
+  },
+  {
+    "revision": "1ba6e9563c8682e80644727bc5c261d4",
+    "url": "/static/media/computaex_logo.1ba6e956.png"
   },
   {
     "revision": "5f915405511f649dad433a6db9adbff4",
@@ -276,11 +280,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/tiktok_logo.0993e324.png"
   },
   {
+    "revision": "82b583901dc392e37f9da390c11945d4",
+    "url": "/static/media/uex_logo.82b58390.png"
+  },
+  {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "/static/media/ui_ux_design.d6363089.svg"
   },
   {
     "revision": "c71b6ecc657da3a15d34619418feb50f",
     "url": "/static/media/uma_logo.c71b6ecc.png"
+  },
+  {
+    "revision": "78e1e2f2271ca85703354696227d92f5",
+    "url": "/static/media/unir_logo.78e1e2f2.png"
   }
 ]);
