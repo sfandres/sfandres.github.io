@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c1b575c9a546ea3ea7e6dcda9c26df6",
+    "revision": "3553403c6f7e238ed75ad200fb4a139b",
     "url": "/index.html"
   },
   {
-    "revision": "5061e2c0f9ec77107896",
+    "revision": "1e225b0813e9a138b32e",
     "url": "/static/css/main.9c27953e.chunk.css"
   },
   {
-    "revision": "9d3a822bbe01689d2e45",
-    "url": "/static/js/2.1845d394.chunk.js"
+    "revision": "824b157221675b998cad",
+    "url": "/static/js/2.19081873.chunk.js"
   },
   {
-    "revision": "5061e2c0f9ec77107896",
-    "url": "/static/js/main.80e5c32b.chunk.js"
+    "revision": "1e225b0813e9a138b32e",
+    "url": "/static/js/main.302665ea.chunk.js"
   },
   {
     "revision": "b449bc4e6a1ee18b7675",
@@ -58,6 +58,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8b53f141a15b7ec3535a6ed2a267dcc1",
     "url": "/static/media/aneca_logo.8b53f141.png"
+  },
+  {
+    "revision": "57f2d84b83b292a346f46845781e3c22",
+    "url": "/static/media/animated_andres.57f2d84b.png"
+  },
+  {
+    "revision": "02c2f37ac090c661838cab7759ece05b",
+    "url": "/static/media/animated_andres_500x500.02c2f37a.png"
   },
   {
     "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
@@ -290,6 +298,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c71b6ecc657da3a15d34619418feb50f",
     "url": "/static/media/uma_logo.c71b6ecc.png"
+  },
+  {
+    "revision": "77898aee58f25a50a998fdc8e3108899",
+    "url": "/static/media/undraw_algorithm.77898aee.svg"
+  },
+  {
+    "revision": "60beac432a88c8402194bf98c668bec0",
+    "url": "/static/media/undraw_data.60beac43.svg"
+  },
+  {
+    "revision": "759eaa30f71c8a32a94fadabb0710037",
+    "url": "/static/media/undraw_teaching.759eaa30.svg"
   },
   {
     "revision": "78e1e2f2271ca85703354696227d92f5",
